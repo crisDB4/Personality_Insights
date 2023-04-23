@@ -1,0 +1,15 @@
+{
+  "name": "personality_insights",
+  "version": "1.0.0",
+  "description": "Site with Big Five Personality Insights API (https://rapidapi.com/symanto-symanto-default/api/big-five-personality-insights). Async / await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}
